@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+*.sqlite
+*.sqlite3
+data/
+.next/
+out/
+dist/
+build/
+*.log
+.vscode/settings.json
